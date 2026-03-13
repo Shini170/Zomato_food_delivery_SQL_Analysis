@@ -89,8 +89,13 @@ The dataset contains 57 columns in total, capturing detailed information about u
     - Order activity varies significantly across cities.
     - Weather conditions may influence ordering behavior.
     - Delivery time varies depending on location.
+
+- All SQL queries used in this analysis can be found in:
+  "zomato_sql_analysis.sql".
   
 # Future Improvements
 
 This project will be extended by creating an interactive dashboard using Power BI to visualize the insights and make the analysis more interactive.
+
+
 
